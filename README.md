@@ -9,6 +9,7 @@
 - Create a remote repository on GitHub
 - Connect the newly created local repository with the remote on GitHub
 
+
 ## Introduction
 
 So far lessons have only contained written content on specific topics. All you
